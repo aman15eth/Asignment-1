@@ -37,7 +37,7 @@ while (choice == "y")
 
     }
 
-    Console.WriteLine("ur password is :-" + password + random.ToUpper() +password1);
+    Console.WriteLine("your password is :-" + password + random.ToUpper() +password1);
     Console.WriteLine("password saved susccefully !");
 
 
